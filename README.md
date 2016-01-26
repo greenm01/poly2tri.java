@@ -22,8 +22,8 @@ V. Domiter and and B. Zalik</strong></p>
 <p>Try it out online: click <a href="http://r3mi.github.io/poly2tri.js/">me</a> or <a href="http://nerik.github.io/poly2trihx/">me</a>!</p>
 
 <p>Image
-<a href="http://java.poly2tri.googlecode.com/hg/resources/screenshots/quad_screen_01.png">01</a>
-<a href="http://java.poly2tri.googlecode.com/hg/resources/screenshots/quad_screen_02.png">02</a>
+<a href="https://github.com/obidobi/poly2tri.java/blob/master/resources/screenshots/quad_screen_01.png">01</a>
+<a href="https://github.com/obidobi/poly2tri.java/blob/master/resources/screenshots/quad_screen_02.png">02</a>
 Video
 <a href="http://www.youtube.com/watch?v=Bt1TYzzr2Rg">poly2tri-java</a></p>
 
