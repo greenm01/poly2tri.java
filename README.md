@@ -31,7 +31,7 @@ Video
 
 <p>If you want to triangulate complex or weak polygons you will need to prepare your data
 with a polygon clipping library like:<br>
-http://sourceforge.net/projects/polyclipping/'&gt;Clipper(C++, C#, Delphi)<br>
-http://sourceforge.net/projects/jsclipper/'&gt;Javascript Clipper<br>
-https://github.com/dmac100/clipper'&gt;Java Clipper</p></markdown-widget>
+<a href="http://sourceforge.net/projects/polyclipping/">Clipper</a> (C++, C#, Delphi)<br>
+<a href="http://sourceforge.net/projects/jsclipper/">Javascript Clipper</a><br>
+<a href="https://github.com/dmac100/clipper">Java Clipper</a></p></markdown-widget>
               </div>
