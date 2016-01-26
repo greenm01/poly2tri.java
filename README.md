@@ -16,7 +16,7 @@ V. Domiter and and B. Zalik</strong></p>
   * <a href="https://github.com/zzzzrrr/poly2tri.golang">Go</a><br>
   * <a href="https://github.com/nerik/poly2trihx">Haxe</a><br>
   * <a href="https://github.com/r3mi/poly2tri.js">Javascript</a><br>
-  * <a href="https://github.com/zzzzrrr/poly2tri.python">Python</a><br>
+  * <a href="https://github.com/zzzzrrr/poly2tri.python">Python</a>, <a href="https://github.com/davidcarne/poly2tri.python">Python3</a><br>
   * <a href="https://github.com/mieko/rbpoly2tri">Ruby</a></p>
 
 <p>Try it out online: click <a href="http://r3mi.github.io/poly2tri.js/">me</a> or <a href="http://nerik.github.io/poly2trihx/">me</a>!</p>
@@ -26,8 +26,6 @@ V. Domiter and and B. Zalik</strong></p>
 <a href="https://raw.githubusercontent.com/obidobi/poly2tri.java/master/resources/screenshots/quad_screen_02.png">02</a>
 Video
 <a href="http://www.youtube.com/watch?v=Bt1TYzzr2Rg">poly2tri-java</a></p>
-
-<p>Seidel's Triangulation Algorithm in <a href="http://code.google.com/p/poly2tri/source/browse/python/seidel.py?repo=archive&amp;r=5ad6efedc1c120ea194bbce2a0d4ed849e6e6903">Python</a></p>
 
 <p>If you want to triangulate complex or weak polygons you will need to prepare your data
 with a polygon clipping library like:<br>
