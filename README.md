@@ -3,7 +3,7 @@
                 <markdown-widget text="projectCtrl.project.description" class="markdown"><p><strong>Based on the paper "Sweep-line algorithm for constrained Delaunay triangulation" by
 V. Domiter and and B. Zalik</strong></p>
 
-<p>Officially supported langs: <a href="https://github.com/zzzzrrr/poly2tri">C++</a>, <a href="http://code.google.com/p/poly2tri/source/checkout?repo=java">Java</a></p>
+<p>Officially supported langs: <a href="https://github.com/zzzzrrr/poly2tri">C++</a>, <a href="https://github.com/obidobi/poly2tri.java">Java</a></p>
 
 <p><a href="http://code.google.com/p/poly2tri/wiki/README?ts=1328629791&amp;updated=README">BASIC INSTRUCTIONS</a></p>
 
