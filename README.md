@@ -35,3 +35,5 @@ with a polygon clipping library like:<br>
 <a href="http://sourceforge.net/projects/jsclipper/">Javascript Clipper</a><br>
 <a href="https://github.com/dmac100/clipper">Java Clipper</a></p></markdown-widget>
               </div>
+              
+              <a href="https://opensource.org/licenses/MIT">MIT License</a>
