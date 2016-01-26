@@ -9,14 +9,14 @@ V. Domiter and and B. Zalik</strong></p>
 
 <p><img src="http://poly2tri.googlecode.com/files/dude_cdt.png" alt="http://poly2tri.googlecode.com/files/dude_cdt.png" title=""></p>
 
-<p>Community based langs (unsupported):
-  * <a href="https://github.com/zzzzrrr/poly2tri.as3">AS3</a>
-  * <a href="https://github.com/Paul-Browne/poly2tri-c">C</a>
-  * <a href="https://github.com/zzzzrrr/poly2tri.cs">C#</a>, <a href="https://github.com/MaulingMonkey/poly2tri-cs">C#(basic)</a>
-  * <a href="https://github.com/zzzzrrr/poly2tri.golang">Go</a>
-  * <a href="https://github.com/nerik/poly2trihx">Haxe</a>
-  * <a href="https://github.com/r3mi/poly2tri.js">Javascript</a>
-  * <a href="https://github.com/zzzzrrr/poly2tri.python">Python</a>
+<p>Community based langs (unsupported):<br>
+  * <a href="https://github.com/zzzzrrr/poly2tri.as3">AS3</a><br>
+  * <a href="https://github.com/Paul-Browne/poly2tri-c">C</a><br>
+  * <a href="https://github.com/zzzzrrr/poly2tri.cs">C#</a>, <a href="https://github.com/MaulingMonkey/poly2tri-cs">C#(basic)</a><br>
+  * <a href="https://github.com/zzzzrrr/poly2tri.golang">Go</a><br>
+  * <a href="https://github.com/nerik/poly2trihx">Haxe</a><br>
+  * <a href="https://github.com/r3mi/poly2tri.js">Javascript</a><br>
+  * <a href="https://github.com/zzzzrrr/poly2tri.python">Python</a><br>
   * <a href="https://github.com/mieko/rbpoly2tri">Ruby</a></p>
 
 <p>Try it out online: click <a href="http://r3mi.github.io/poly2tri.js/">me</a> or <a href="http://nerik.github.io/poly2trihx/">me</a>!</p>
