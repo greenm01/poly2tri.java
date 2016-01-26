@@ -11,7 +11,7 @@ V. Domiter and and B. Zalik</strong></p>
 
 <p>Community based langs (unsupported):
   * <a href="https://github.com/zzzzrrr/poly2tri.as3">AS3</a>
-  * <a href="http://code.google.com/p/poly2tri-c">C</a>
+  * <a href="https://github.com/Paul-Browne/poly2tri-c">C</a>
   * <a href="https://github.com/zzzzrrr/poly2tri.cs">C#</a>, <a href="https://github.com/MaulingMonkey/poly2tri-cs">C#(basic)</a>
   * <a href="https://github.com/zzzzrrr/poly2tri.golang">Go</a>
   * <a href="https://github.com/nerik/poly2trihx">Haxe</a>
